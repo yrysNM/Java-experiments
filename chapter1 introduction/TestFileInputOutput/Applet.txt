@@ -1,0 +1,4 @@
+Most browsers do not support Sqing components 
+and other new JDK features.For best results, 
+write your applet using the same JDK that browser user 
+and the AWT components instead of Swing.
